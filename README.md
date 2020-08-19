@@ -2,13 +2,13 @@
 
 
 
-## :information_source: What's Next Level Week?
+## :information_source: O que é Next Level Week?
 
-NLW is a practical week with lots of code, challenges, networking and a single objective: to take you to the next level.
-Through our method you will learn new tools, learn about new technologies and discover hacks that will boost your career.
-An online and completely free event that will help you take the next step in your evolution as a dev.
+NLW é uma semana prática com muito código, desafios, networking e um único objetivo: levá-lo ao próximo nível.
+Através do nosso método você aprenderá novas ferramentas, aprenderá sobre novas tecnologias e descobrirá hacks que irão impulsionar sua carreira.
+Um evento online totalmente gratuito que o ajudará a dar o próximo passo em sua evolução como desenvolvedor.
 
-### Days
+### Dias
 - Dia 1: Acelerando sua evolução 01/06 - :heavy_check_mark:
 - Dia 2: Olhando para as oportunidades 02/06 - :heavy_check_mark:
 - Dia 3: A escolha da Stack 03/06 - :heavy_check_mark:
@@ -17,17 +17,17 @@ An online and completely free event that will help you take the next step in you
 
 ## 💻 Project
 
-Ecoleta is a project developed based on international environment week. 
-That aims to connect people to companies that collect specific waste such as light bulbs, batteries, cooking oil, etc.
+Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambiente.
+O objetivo é conectar pessoas a empresas que coletam resíduos específicos como lâmpadas, pilhas, óleo de cozinha, etc.
 
 <h1 align="center">
     <img alt="Example" title="Example" src="Server/src/uploads/screenshot.png" width="500px" />
 </h1>
 
 
-## :rocket: Technologies
+## :rocket: Tecnologias
 
-This project was developed with the following technologies:
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js][nodejs]
 - [TypeScript][typescript]
